@@ -6,7 +6,7 @@
   "module": "index.js",
   "jsnext:main": "index.js",
   "description": "Core package of uniforms.",
-  "repository": "https://github.com/vazco/uniforms/tree/master/packages/uniforms",
+  "repository": "https://github.com/DxRx/uniforms",
   "bugs": "https://github.com/vazco/uniforms/issues",
   "keywords": [
     "form",
